@@ -6,7 +6,7 @@
 
 ---
 
-### 🧠 **What I'm into:**
+## 🧠 **What I'm into:**
 - 📈 Crunching data until it confesses the truth  
 - 📊 Building dashboards that even non-data folks find cool  
 - 🧹 Cleaning messy datasets like a digital Marie Kondo  
@@ -15,21 +15,21 @@
 
 ---
 
-### 🔭 **What I’m working on:**
+## 🔭 **What I’m working on:**
 - ✍️ Personal data projects (because why not analyze my Spotify habits?)  
 - 📚 Brushing up on machine learning & predictive analytics  
 - 💼 Looking for opportunities where I can **solve real problems with data**  
 
 ---
 
-### 🚀 **Fun facts:**
+## 🚀 **Fun facts:**
 - I once made a chart to prove my roommate eats 80% of the shared snacks  
 - Excel pivot tables are my comfort zone  
 - I speak fluent sarcasm and semi-fluent SQL  
 
 ---
 
-### 🛠️ **Tech Stack:**
+## 🛠️ **Tech Stack:**
 
 <!-- Languages -->
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -63,7 +63,7 @@
 
 ---
 
-### 📬 **Let’s connect!**
+## 📬 **Let’s connect!**
 Feel free to check out my projects, drop a star ⭐️, or reach out — I love talking data, economics, or just geeking out over cool visualizations.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prachi-delhi)
 
