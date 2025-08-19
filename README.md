@@ -1,4 +1,5 @@
 ## 👋 Hello, world! I'm Prachi Bansal
+![hi](https://media.giphy.com/media/xT9IgIc0lryrxvqVGM/giphy.gif)
 
 🎓 Just graduated with a degree in **Economics** and a minor in **data obsession**.  
 📊 I turn numbers into stories, spreadsheets into insights, and caffeine into code.  
