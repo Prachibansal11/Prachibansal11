@@ -27,15 +27,7 @@
 - Excel pivot tables are my comfort zone  
 - I speak fluent sarcasm and semi-fluent SQL  
 
----
 
-### 📬 **Let’s connect!**
-Feel free to check out my projects, drop a star ⭐️, or reach out — I love talking data, economics, or just geeking out over cool visualizations.
-
-
----
-
----
 
 ### 🛠️ **Tech Stack:**
 
@@ -68,4 +60,13 @@ Feel free to check out my projects, drop a star ⭐️, or reach out — I love 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 [![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
+
+---
+
+### 📬 **Let’s connect!**
+Feel free to check out my projects, drop a star ⭐️, or reach out — I love talking data, economics, or just geeking out over cool visualizations.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prachi-delhi)
+
+
+---
 
