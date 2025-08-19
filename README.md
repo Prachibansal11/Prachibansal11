@@ -69,4 +69,14 @@ Feel free to check out my projects, drop a star ⭐️, or reach out — I love 
 
 
 ---
+---
+
+### 📊 **GitHub Stats**
+
+![Prachi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=default)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=default)
+
 
