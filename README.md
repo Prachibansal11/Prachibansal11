@@ -69,14 +69,14 @@ Feel free to check out my projects, drop a star ⭐️, or reach out — I love 
 
 
 ---
----
 
 ### 📊 **GitHub Stats**
 
-![Prachi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
+![Prachi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prachibansal11&show_icons=true&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prachibansal11&layout=compact&theme=github_dark)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prachibansal11&theme=github-dark)
+
 
 
