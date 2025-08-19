@@ -1,5 +1,14 @@
 ## 👋 Hello, world! I'm Prachi Bansal
-![hi](https://media.giphy.com/media/xT9IgIc0lryrxvqVGM/giphy.gif)
+---
+
+## ​ Hello All!
+
+![Hello All Animation](https://media.giphy.com/media/helloall/giphy.gif)
+
+Welcome to my GitHub! Feel free to explore my projects and say hi!
+
+---
+
 
 🎓 Just graduated with a degree in **Economics** and a minor in **data obsession**.  
 📊 I turn numbers into stories, spreadsheets into insights, and caffeine into code.  
