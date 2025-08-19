@@ -1,39 +1,37 @@
+## 👋 Hello, world! I'm Prachi Bansal
 
-👋 Hello, world! I'm [Prachi Bansal]
-
-🎓 Just graduated with a degree in Economics and a minor in data obsession.
-📊 I turn numbers into stories, spreadsheets into insights, and caffeine into code.
-💻 Currently diving headfirst into the wonderful world of data analysis, where Python, SQL, and a sprinkle of R are my closest companions.
-
-🧠 What I'm into:
-
-📈 Crunching data until it confesses the truth
-
-📊 Building dashboards that even non-data folks find cool
-
-🧹 Cleaning messy datasets like a digital Marie Kondo
-
-🤖 Learning new tools (currently obsessed with Python, pandas, and Power BI)
-
-🎯 Connecting data to real-world decisions and outcomes
-
-🔭 What I’m working on:
-
-✍️ Personal data projects (because why not analyze my Spotify habits?)
-
-📚 Brushing up on machine learning & predictive analytics
-
-💼 Looking for opportunities where I can solve real problems with data
-
-🚀 Fun facts:
-
-I once made a chart to prove my roommate eats 80% of the shared snacks
-
-Excel pivot tables are my comfort zone
-
-I speak fluent sarcasm and semi-fluent SQL
+🎓 Just graduated with a degree in **Economics** and a minor in **data obsession**.  
+📊 I turn numbers into stories, spreadsheets into insights, and caffeine into code.  
+💻 Currently diving headfirst into the wonderful world of **data analysis**, where Python, SQL, and a sprinkle of R are my closest companions.
 
 ---
+
+### 🧠 **What I'm into:**
+- 📈 Crunching data until it confesses the truth  
+- 📊 Building dashboards that even non-data folks find cool  
+- 🧹 Cleaning messy datasets like a digital Marie Kondo  
+- 🤖 Learning new tools (currently obsessed with Python, pandas, and Power BI)  
+- 🎯 Connecting data to real-world decisions and outcomes  
+
+---
+
+### 🔭 **What I’m working on:**
+- ✍️ Personal data projects (because why not analyze my Spotify habits?)  
+- 📚 Brushing up on machine learning & predictive analytics  
+- 💼 Looking for opportunities where I can **solve real problems with data**  
+
+---
+
+### 🚀 **Fun facts:**
+- I once made a chart to prove my roommate eats 80% of the shared snacks  
+- Excel pivot tables are my comfort zone  
+- I speak fluent sarcasm and semi-fluent SQL  
+
+---
+
+### 📬 **Let’s connect!**
+Feel free to check out my projects, drop a star ⭐️, or reach out — I love talking data, economics, or just geeking out over cool visualizations.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/)  
