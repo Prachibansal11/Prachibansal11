@@ -1,10 +1,37 @@
-## Hi there 👋
 
-## 👋 About Me:
-🌟 I'm currently working on: Exciting data analysis and cricket analytics projects, leveraging Python, SQL, and machine learning.  
-🤝 I'm looking to collaborate on: Data-driven decision-making tools, predictive analytics projects, and innovative AI applications.  
-🌱 I'm currently learning: Machine learning, AI, and deep learning techniques to solve complex problems.  
-🎯 I'm interested in: Finding creative ways to use AI in sports, diving into predictive analytics, and telling stories through data that truly resonate.
+👋 Hello, world! I'm [Prachi Bansal]
+
+🎓 Just graduated with a degree in Economics and a minor in data obsession.
+📊 I turn numbers into stories, spreadsheets into insights, and caffeine into code.
+💻 Currently diving headfirst into the wonderful world of data analysis, where Python, SQL, and a sprinkle of R are my closest companions.
+
+🧠 What I'm into:
+
+📈 Crunching data until it confesses the truth
+
+📊 Building dashboards that even non-data folks find cool
+
+🧹 Cleaning messy datasets like a digital Marie Kondo
+
+🤖 Learning new tools (currently obsessed with Python, pandas, and Power BI)
+
+🎯 Connecting data to real-world decisions and outcomes
+
+🔭 What I’m working on:
+
+✍️ Personal data projects (because why not analyze my Spotify habits?)
+
+📚 Brushing up on machine learning & predictive analytics
+
+💼 Looking for opportunities where I can solve real problems with data
+
+🚀 Fun facts:
+
+I once made a chart to prove my roommate eats 80% of the shared snacks
+
+Excel pivot tables are my comfort zone
+
+I speak fluent sarcasm and semi-fluent SQL
 
 ---
 
