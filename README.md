@@ -1,6 +1,10 @@
 ## 👋 Hello, world! I'm Prachi Bansal
 
+
+
 ---
+
+
 🎓 Just graduated with a degree in **Economics** and a minor in **data obsession**.  
 📊 I turn numbers into stories, spreadsheets into insights, and caffeine into code.  
 💻 Currently diving headfirst into the wonderful world of **data analysis**, where Python, SQL, and a sprinkle of R are my closest companions.
