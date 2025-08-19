@@ -1,15 +1,6 @@
 ## 👋 Hello, world! I'm Prachi Bansal
----
-
-## ​ Hello All!
-
-![Hello All Animation](https://media.giphy.com/media/helloall/giphy.gif)
-
-Welcome to my GitHub! Feel free to explore my projects and say hi!
 
 ---
-
-
 🎓 Just graduated with a degree in **Economics** and a minor in **data obsession**.  
 📊 I turn numbers into stories, spreadsheets into insights, and caffeine into code.  
 💻 Currently diving headfirst into the wonderful world of **data analysis**, where Python, SQL, and a sprinkle of R are my closest companions.
