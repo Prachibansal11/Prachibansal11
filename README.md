@@ -66,6 +66,7 @@
 ## 📬 **Let’s connect!**
 Feel free to check out my projects, drop a star ⭐️, or reach out — I love talking data, economics, or just geeking out over cool visualizations.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prachi-delhi)
+[Visit @prachibansal](https://youtube.com/@prachibansal-t1r?si=aC_8GYWoIkA1ak8W)
 
 
 ---
