@@ -27,7 +27,7 @@
 - Excel pivot tables are my comfort zone  
 - I speak fluent sarcasm and semi-fluent SQL  
 
-
+---
 
 ### 🛠️ **Tech Stack:**
 
